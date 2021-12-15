@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,100&display=swap');
+@import './helpers.scss';
+@import './variables.scss';
+@import './navbar.scss';
+@import './userlist.scss';
+html{
+   font-family: 'Roboto', sans-serif;
+}
+.container{
+   margin: 2rem auto;
+}

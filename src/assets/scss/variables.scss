@@ -1,0 +1,8 @@
+$listcolor: #eee;
+$listbordercolor: #bdbdbd;
+$listhover: #e0e0e0;
+@mixin userlistoptions {
+   flex: 1 1 25%;
+   overflow-x: auto;
+   padding: 0 15px;
+}
